@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amichala
 - 👀 I’m interested in IT security
-- 🌱 I’m currently learning ...
+
 - 💞️ I’m looking to collaborate on cloud projects
 - 📫 How to reach me amichala@gmail.com
 
